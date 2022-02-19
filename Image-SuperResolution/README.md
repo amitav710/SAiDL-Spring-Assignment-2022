@@ -5,6 +5,7 @@ In order to downscale the HR images from the dataset, the resize function has be
 
 ![image](https://user-images.githubusercontent.com/77532573/154813490-746add38-43b4-42ae-b625-389499d14836.png)
 ![image](https://user-images.githubusercontent.com/77532573/154813507-5ed172c0-4c36-4349-a5f1-b56d7d4a0753.png)
+
 Here we can see our use of the different methods of interpolation and our prep_image function, which helps us generate the 300x300 inputs for our model.
 
 The model used to compare these upscaling techniques was the same for all.
